@@ -1,0 +1,15 @@
+.stat {
+   
+    text-align: center;
+    border: 1px solid black;
+    list-style-type: none;
+    padding:20px;
+    color: black;
+    width: 150px;
+    height: 50px;
+    display: table-cell; 
+    margin-left: 400px; 
+    background:gray;
+   
+  
+}
